@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Custom Movie List</string>
+    <string name="nm">Name</string>
+    <string name="dt">Date</string>
+</resources>
